@@ -1,0 +1,11 @@
+{
+  "clients_root": ".",
+  "install_dir": ".",
+  "included_categories": [
+    ""
+  ],
+  "desktop_folder_name": "Login Clientes",
+  "auto_start": false,
+  "start_minimized": true,
+  "last_indexed_at": ""
+}

@@ -1,0 +1,12 @@
+2026-04-08T17:06:05.956906 boot:start
+2026-04-08T17:06:06.130232 boot:root-created
+2026-04-08T17:06:06.150764 boot:assets logo=C:\Users\KAUANL~1\AppData\Local\Temp\_MEI108722\logo_buscador.png icon=C:\Users\KAUANL~1\AppData\Local\Temp\_MEI108722\logo_buscador.ico
+2026-04-08T17:06:06.152007 boot:config root='c:\\Users\\Kauan Lauer\\Documents\\Scripts\\HeadToys\\hotkey_verify_clients'
+2026-04-08T17:06:06.475738 boot:ui-built
+2026-04-08T17:06:06.476630 boot:runtime-scheduled
+2026-04-08T17:06:06.478655 boot:mainloop
+2026-04-08T17:06:06.486980 runtime:start
+2026-04-08T17:06:06.903318 runtime:relay-ready
+2026-04-08T17:06:06.943570 runtime:index-loaded
+2026-04-08T17:06:06.964535 runtime:tray-started
+2026-04-08T17:06:07.286132 runtime:hotkey-started registered=True error=0
